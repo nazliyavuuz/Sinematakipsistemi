@@ -1,0 +1,61 @@
+C:\Users\XALT1\source\repos\sinema otomasyonu\sinema otomasyonu\bin\Debug\sinema otomasyonu.exe.config
+C:\Users\XALT1\source\repos\sinema otomasyonu\sinema otomasyonu\bin\Debug\sinema otomasyonu.exe
+C:\Users\XALT1\source\repos\sinema otomasyonu\sinema otomasyonu\bin\Debug\sinema otomasyonu.pdb
+C:\Users\XALT1\source\repos\sinema otomasyonu\sinema otomasyonu\obj\Debug\sinema otomasyonu.csproj.AssemblyReference.cache
+C:\Users\XALT1\source\repos\sinema otomasyonu\sinema otomasyonu\obj\Debug\sinema_otomasyonu.Form1.resources
+C:\Users\XALT1\source\repos\sinema otomasyonu\sinema otomasyonu\obj\Debug\sinema_otomasyonu.Properties.Resources.resources
+C:\Users\XALT1\source\repos\sinema otomasyonu\sinema otomasyonu\obj\Debug\sinema otomasyonu.csproj.GenerateResource.cache
+C:\Users\XALT1\source\repos\sinema otomasyonu\sinema otomasyonu\obj\Debug\sinema otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\XALT1\source\repos\sinema otomasyonu\sinema otomasyonu\obj\Debug\sinema otomasyonu.exe
+C:\Users\XALT1\source\repos\sinema otomasyonu\sinema otomasyonu\obj\Debug\sinema otomasyonu.pdb
+C:\Users\XALT1\source\repos\sinema otomasyonu\sinema otomasyonu\obj\Debug\sinema_otomasyonu.Form2.resources
+C:\Users\XALT1\source\repos\sinema otomasyonu\sinema otomasyonu\obj\Debug\sinema_otomasyonu.Form5.resources
+C:\Users\emirc\Desktop\sinema otomasyonu\sinema otomasyonu\obj\Debug\sinema otomasyonu.csprojAssemblyReference.cache
+C:\Users\emirc\Desktop\sinema otomasyonu\sinema otomasyonu\obj\Debug\sinema_otomasyonu.Form1.resources
+C:\Users\emirc\Desktop\sinema otomasyonu\sinema otomasyonu\obj\Debug\sinema_otomasyonu.Properties.Resources.resources
+C:\Users\emirc\Desktop\sinema otomasyonu\sinema otomasyonu\obj\Debug\sinema otomasyonu.csproj.GenerateResource.cache
+C:\Users\emirc\Desktop\sinema otomasyonu\sinema otomasyonu\obj\Debug\sinema otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\emirc\Desktop\sinema otomasyonu\sinema otomasyonu\obj\Debug\sinema otomasyonu.exe
+C:\Users\emirc\Desktop\sinema otomasyonu\sinema otomasyonu\obj\Debug\sinema otomasyonu.pdb
+C:\Users\emirc\Desktop\sinema otomasyonu\sinema otomasyonu\bin\Debug\sinema otomasyonu.exe.config
+C:\Users\emirc\Desktop\sinema otomasyonu\sinema otomasyonu\bin\Debug\sinema otomasyonu.exe
+C:\Users\emirc\Desktop\sinema otomasyonu\sinema otomasyonu\bin\Debug\sinema otomasyonu.pdb
+C:\Users\emirc\Desktop\sinema otomasyonu\sinema otomasyonu\bin\Debug\EntityFramework.dll
+C:\Users\emirc\Desktop\sinema otomasyonu\sinema otomasyonu\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\emirc\Desktop\sinema otomasyonu\sinema otomasyonu\bin\Debug\EntityFramework.xml
+C:\Users\emirc\Desktop\sinema otomasyonu\sinema otomasyonu\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\emirc\Desktop\sinema otomasyonu\sinema otomasyonu\obj\Debug\sinema otomasyonu.csproj.CopyComplete
+C:\Users\emirc\Desktop\sinema otomasyonu\sinema otomasyonu\obj\Debug\sinema_otomasyonu.Form2.resources
+C:\Users\XALT1\Desktop\sinema otomasyonu\sinema otomasyonu\bin\Debug\sinema otomasyonu.exe.config
+C:\Users\XALT1\Desktop\sinema otomasyonu\sinema otomasyonu\bin\Debug\sinema otomasyonu.exe
+C:\Users\XALT1\Desktop\sinema otomasyonu\sinema otomasyonu\bin\Debug\sinema otomasyonu.pdb
+C:\Users\XALT1\Desktop\sinema otomasyonu\sinema otomasyonu\bin\Debug\EntityFramework.dll
+C:\Users\XALT1\Desktop\sinema otomasyonu\sinema otomasyonu\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\XALT1\Desktop\sinema otomasyonu\sinema otomasyonu\bin\Debug\EntityFramework.xml
+C:\Users\XALT1\Desktop\sinema otomasyonu\sinema otomasyonu\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\XALT1\Desktop\sinema otomasyonu\sinema otomasyonu\obj\Debug\sinema otomasyonu.csproj.AssemblyReference.cache
+C:\Users\XALT1\Desktop\sinema otomasyonu\sinema otomasyonu\obj\Debug\sinema_otomasyonu.Form1.resources
+C:\Users\XALT1\Desktop\sinema otomasyonu\sinema otomasyonu\obj\Debug\sinema_otomasyonu.Form2.resources
+C:\Users\XALT1\Desktop\sinema otomasyonu\sinema otomasyonu\obj\Debug\sinema_otomasyonu.Properties.Resources.resources
+C:\Users\XALT1\Desktop\sinema otomasyonu\sinema otomasyonu\obj\Debug\sinema otomasyonu.csproj.GenerateResource.cache
+C:\Users\XALT1\Desktop\sinema otomasyonu\sinema otomasyonu\obj\Debug\sinema otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\XALT1\Desktop\sinema otomasyonu\sinema otomasyonu\obj\Debug\sinema otomasyonu.csproj.CopyComplete
+C:\Users\XALT1\Desktop\sinema otomasyonu\sinema otomasyonu\obj\Debug\sinema otomasyonu.exe
+C:\Users\XALT1\Desktop\sinema otomasyonu\sinema otomasyonu\obj\Debug\sinema otomasyonu.pdb
+C:\Users\emirc\Desktop\barisaltayodevvvv-main\sinema otomasyonu\obj\Debug\sinema otomasyonu.csprojAssemblyReference.cache
+C:\Users\emirc\Desktop\barisaltayodevvvv-main\sinema otomasyonu\obj\Debug\sinema_otomasyonu.Form1.resources
+C:\Users\emirc\Desktop\barisaltayodevvvv-main\sinema otomasyonu\obj\Debug\sinema_otomasyonu.Form2.resources
+C:\Users\emirc\Desktop\barisaltayodevvvv-main\sinema otomasyonu\obj\Debug\sinema_otomasyonu.Properties.Resources.resources
+C:\Users\emirc\Desktop\barisaltayodevvvv-main\sinema otomasyonu\obj\Debug\sinema otomasyonu.csproj.GenerateResource.cache
+C:\Users\emirc\Desktop\barisaltayodevvvv-main\sinema otomasyonu\obj\Debug\sinema otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\emirc\Desktop\barisaltayodevvvv-main\sinema otomasyonu\bin\Debug\sinema otomasyonu.exe.config
+C:\Users\emirc\Desktop\barisaltayodevvvv-main\sinema otomasyonu\bin\Debug\sinema otomasyonu.exe
+C:\Users\emirc\Desktop\barisaltayodevvvv-main\sinema otomasyonu\bin\Debug\sinema otomasyonu.pdb
+C:\Users\emirc\Desktop\barisaltayodevvvv-main\sinema otomasyonu\bin\Debug\EntityFramework.dll
+C:\Users\emirc\Desktop\barisaltayodevvvv-main\sinema otomasyonu\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\emirc\Desktop\barisaltayodevvvv-main\sinema otomasyonu\bin\Debug\EntityFramework.xml
+C:\Users\emirc\Desktop\barisaltayodevvvv-main\sinema otomasyonu\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\emirc\Desktop\barisaltayodevvvv-main\sinema otomasyonu\obj\Debug\sinema otomasyonu.csproj.CopyComplete
+C:\Users\emirc\Desktop\barisaltayodevvvv-main\sinema otomasyonu\obj\Debug\sinema otomasyonu.exe
+C:\Users\emirc\Desktop\barisaltayodevvvv-main\sinema otomasyonu\obj\Debug\sinema otomasyonu.pdb
+C:\Users\emirc\Desktop\barisaltayodevvvv-main\sinema otomasyonu\obj\Debug\sinema_otomasyonu.Cikti.resources
